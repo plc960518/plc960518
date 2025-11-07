@@ -38,8 +38,6 @@ I'm a passionate **Nutritionist and Data Analyst** with experience in **[technol
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/paulina-lobo-cisneros-5693012ba/)
 
 
