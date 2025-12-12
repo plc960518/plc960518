@@ -10,7 +10,7 @@ I'm a passionate **Nutritionist and Junior Data Analyst** with experience in dat
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **Python, SQL, English C1, French B2, Spanish native**
 - 📫 How to reach me: **lobo.cisneros.paulina@gmail.com**
-- ⚡ Fun fact: **I love to dance salsa and hiking**
+- ⚡ Fun fact: **I love to dance salsa**
 
 ## My Skills 🧠
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
