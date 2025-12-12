@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **Nutritionist and Data Analyst** with experience in **[technologies you're proficient in]**. I love learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Nutritionist and Junior Data Analyst** with experience in data management and customer support, detail-oriented and with a proactive approach. Knowledge in programming languages such as **Python and SQL**, as well as data visualization tools including Power BI and Tableau. Recognized for the ability to transform large volumes of data into strategic insights and performance optimization.
 
-- 🌱 Currently learning: **__**
+- 🌱 Currently learning: **Data Analysis**
 - 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **Python, English C1, French B2, Spanish native**
-- 📫 How to reach me: **plc960518@gmail.com**
-- ⚡ Fun fact: **I love to dance salsa**
+- 🌍 Languages: **Python, SQL, English C1, French B2, Spanish native**
+- 📫 How to reach me: **lobo.cisneros.paulina@gmail.com**
+- ⚡ Fun fact: **I love to dance salsa and hiking**
 
 ## My Skills 🧠
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
