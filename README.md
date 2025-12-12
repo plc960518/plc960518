@@ -1,13 +1,10 @@
 # Hi there, I'm Paulina Lobo! 👋
 
-![Banner Image](your_banner_image_url_here)
-
 ## About Me 🚀
 
 I'm a passionate **Nutritionist and Junior Data Analyst** with experience in data management and customer support, detail-oriented and with a proactive approach. Knowledge in programming languages such as **Python and SQL**, as well as data visualization tools including Power BI and Tableau. Recognized for the ability to transform large volumes of data into strategic insights and performance optimization.
 
 - 🌱 Currently learning: **Data Analysis**
-- 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **Python, SQL, English C1, French B2, Spanish native**
 - 📫 How to reach me: **lobo.cisneros.paulina@gmail.com**
 - ⚡ Fun fact: **I love to dance salsa**
@@ -19,22 +16,19 @@ I'm a passionate **Nutritionist and Junior Data Analyst** with experience in dat
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### TripleTen Bootcamp | Data Analyst
 
-![Project 1 Screenshot](project_1_screenshot_url)
+● Real-World Case Simulation: Wine Quality Analysis
+Developed a visual application that analyzed a dataset containing physicochemical properties of various wines and their corresponding quality ratings.
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+● Impact:
+Created a tool that improved the understanding of the data and highlighted relationships between specific wine characteristics and overall quality scores.
 
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+● Technologies Used:
+Database manipulation with Python (Pandas, NumPy, Matplotlib), GitHub, Visual Studio Code, Render.
+You can check out the repository [here](https://github.com/plc960518/Quality_of_wine.git).
 
 ## Get in Touch 📬
 
